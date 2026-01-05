@@ -1,0 +1,5 @@
+price = float(input("Enter the price of an item:"))
+quantity = int(input("Enter the quantity:"))
+
+calculate = price * quantity
+print (" The total price is:", calculate )
