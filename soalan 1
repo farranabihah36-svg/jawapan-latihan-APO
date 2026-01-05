@@ -1,0 +1,2 @@
+number = input( "Enter one number:" )
+print ( "One number that you entered:" , number )
